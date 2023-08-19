@@ -1,5 +1,23 @@
 h1:hover {
-    background-color: blueviolet;
-    color: aqua;
+    background-color: rgb(255, 99, 177);
+    color: black;
 
 }
+
+.moldura-lista {
+
+    width: 300px;
+    border: 3px solid rgb(20, 15, 2);
+    background-color: rgb(243, 191, 217);
+    cursor: pointer;
+}
+
+.lista-geral:hover {
+
+    width: 250px;
+    background-color: rgb(230, 106, 203);
+
+
+}
+
+
